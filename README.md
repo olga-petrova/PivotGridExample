@@ -9,7 +9,7 @@ Installation guide
 
 3) Run command from the root folder of your website: sencha -sdk {path to ExtJS 6 sdk} generate app KitchenSink PivotGridExample/
 
-4) Copy app, classic, modern, overrides and resources folders into PivotGridExample folder (created at step 3)
+4) Copy app, classic, modern, overrides, data, lib, packages, sass, resources folders and app.json and index.html files into PivotGridExample folder (created at step 3)
 
 5) Copy content of app.json file but save the same "id" property.
 
